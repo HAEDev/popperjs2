@@ -1,10 +1,5 @@
 {
-  "name": "haedev/popperjs",
-  "exportName": "haedev/popperjs",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/haedev/popperjs.git"
-  },
+  "name": "popperjs-monorepo",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
