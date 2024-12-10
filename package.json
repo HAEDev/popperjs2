@@ -1,5 +1,10 @@
 {
-  "name": "haedev/popperjs",
+  "name": "popperjs",
+  "exportName": "popperjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haedev/popperjs.git"
+  }
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
